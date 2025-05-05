@@ -1,36 +1,36 @@
 # Citizen Landing Project
 
-Bu Next.js projesi, bir landing sayfası içerir.
+This Next.js project contains a landing page.
 
-## Başlangıç
+## Getting Started
 
-İlk olarak, bağımlılıkları yükleyin:
+First, install the dependencies:
 
 ```bash
 npm install
-# veya
+# or
 yarn install
 ```
 
-Ardından, geliştirme sunucusunu çalıştırın:
+Then, run the development server:
 
 ```bash
 npm run dev
-# veya
+# or
 yarn dev
 ```
 
-Tarayıcınızla [http://localhost:3000](http://localhost:3000) adresini açarak sonucu görebilirsiniz.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Proje Yapısı
+## Project Structure
 
-- `/app/landing` - Landing sayfası bileşenlerini içerir
-- `/app` - Next.js App Router ile ana uygulamayı içerir
-- `/components` - Uygulama genelinde kullanılan paylaşılan bileşenleri içerir
+- `/app/landing` - Contains landing page components
+- `/app` - Contains the main application with Next.js App Router
+- `/components` - Contains shared components used throughout the application
 
-## Özellikler
+## Features
 
-- Material UI ile modern arayüz
-- TypeScript desteği
+- Modern interface with Material UI
+- TypeScript support
 - Next.js App Router
-- SEO optimizasyonu 
+- SEO optimization
