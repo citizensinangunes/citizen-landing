@@ -34,7 +34,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - TypeScript support
 - Next.js App Router
 - SEO optimization
-
-## Deployment
-
-The project can be deployed to any hosting service that supports Next.js applications.
